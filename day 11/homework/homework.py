@@ -1,0 +1,1 @@
+print("proeqti gvaqvs davalebad")
