@@ -14,7 +14,22 @@
 #interation- iteracia-ganmeoreba
 #i- საიტერაციო ცვლადი
 
-for i in range(20):
-    print("goa best")
+# for i in range(20):
+#     print("goa best")
+
+
+
+total = 0
+for i in range(1, 101):
+    total += i
+print(total)
+
+for i in range(1, 21):
+    if i % 2 == 0:
+        print("even")
+    else:
+        print("odd")
+
+
 
 

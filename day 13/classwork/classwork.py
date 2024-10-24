@@ -1,0 +1,1 @@
+print("gvqonda jgupuri prezentacia, arc saklaso davaleba gvqonda . arc sashinao")

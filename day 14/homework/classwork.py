@@ -8,8 +8,8 @@
 
 # დაპრინტეთ პირველი 10 ნატურალური რიცხვი 
 
-# for i in range(11):
-#     print(float(i))
+#for i in range(11):
+#   print(float(i))
 
 
 # დაპტინტეთ 0-იდან 100-ის ჩათვლით ლუწი რიცხვები
@@ -41,8 +41,7 @@
 # sum = 0
 
 # for i in range(1,10):
-#     sum += i ** 2
-
+#      sum += i ** 2
 # print(sum)
 
 
